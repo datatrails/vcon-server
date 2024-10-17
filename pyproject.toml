@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-gunicorn = "^21.2.0"
+gunicorn = "^22.0.0"
 datadog = "^0.48.0"
 uvicorn = "0.23.2"
 redis = "4.6.0"
